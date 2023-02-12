@@ -1,4 +1,4 @@
-# Implementing Typescript"
+# Implementing Typescript
 
 In this project implementing:
 
